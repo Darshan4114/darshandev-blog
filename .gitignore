@@ -51,13 +51,8 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-<<<<<<< HEAD
 # dotenv environment variables file
 .env
-=======
-# dotenv environment variable files
-.env*
->>>>>>> b2269484d0741eadf040860f90379b0acce5e2c2
 
 # gatsby files
 .cache/
@@ -72,8 +67,5 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-<<<<<<< HEAD
 
 .netlify/
-=======
->>>>>>> b2269484d0741eadf040860f90379b0acce5e2c2
