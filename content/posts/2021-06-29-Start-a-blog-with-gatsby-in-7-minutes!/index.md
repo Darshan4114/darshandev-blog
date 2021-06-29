@@ -2,12 +2,12 @@
 title: Start a blog with gatsby in 7 minutes! for developers
 author: Darshan D
 date: 2021-06-29
-hero: ./images/hero.jpg
-excerpt: Every developer should have a blog. This blog will help you start a blog ASAP. With Gatsby you can make a fast and customizable blog just in a few minutes and deploy it on Netlify for free!
-A blog is a very effective tools for growing your social media presence and be recognized in your space.
-
+excerpt: Every developer should have a blog. This blog will help you start a
+  blog ASAP. With Gatsby you can make a fast and customizable blog just in a few
+  minutes and deploy it on Netlify for free! A blog is a very effective tools
+  for growing your social media presence and be recognized in your space.
+hero: images/hero.jpg
 ---
-
 
 ## Tools U+1F6E0:
 
