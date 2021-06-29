@@ -5,6 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
+  "component---cache-dev-404-page-js": hot(preferDefault(require("I:\\Documents\\Darshan\\Projects\\BLOOG\\novela-site\\.cache\\dev-404-page.js"))),
   "component---node-modules-narative-gatsby-theme-novela-src-templates-article-template-tsx": hot(preferDefault(require("I:\\Documents\\Darshan\\Projects\\BLOOG\\novela-site\\node_modules\\@narative\\gatsby-theme-novela\\src\\templates\\article.template.tsx"))),
   "component---node-modules-narative-gatsby-theme-novela-src-templates-articles-template-tsx": hot(preferDefault(require("I:\\Documents\\Darshan\\Projects\\BLOOG\\novela-site\\node_modules\\@narative\\gatsby-theme-novela\\src\\templates\\articles.template.tsx"))),
   "component---node-modules-narative-gatsby-theme-novela-src-templates-author-template-tsx": hot(preferDefault(require("I:\\Documents\\Darshan\\Projects\\BLOOG\\novela-site\\node_modules\\@narative\\gatsby-theme-novela\\src\\templates\\author.template.tsx"))),

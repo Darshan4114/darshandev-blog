@@ -1,5 +1,7 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: Darshan4114/darshandev-blog
+  api_root: https://api.github.com
 
 local_backend: true # Optional if you want to use the local proxy mode
 

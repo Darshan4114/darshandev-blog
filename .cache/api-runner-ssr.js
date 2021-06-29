@@ -13,6 +13,9 @@ var plugins = [{
     },{
       plugin: require('I:/Documents/Darshan/Projects/BLOOG/novela-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Novela by Narative","short_name":"Novela","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"standalone","icon":"src/assets/favicon.jpg","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"da3c90a5e880627cd89da69b1ca91daa"},
+    },{
+      plugin: require('I:/Documents/Darshan/Projects/BLOOG/novela-site/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
+      options: {"plugins":[],"trackingIds":["G-2RZBW6LYNM","UA-199919427-1","DC-FLOODIGHT_ID"],"gtagConfig":{"optimize_id":"OPT_CONTAINER_ID","anonymize_ip":true,"cookie_expires":0},"pluginConfig":{"head":false,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]}},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

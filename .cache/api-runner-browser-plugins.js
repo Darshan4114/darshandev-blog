@@ -13,4 +13,7 @@ module.exports = [{
     },{
       plugin: require('../node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
       options: {"plugins":[]},
+    },{
+      plugin: require('../node_modules/gatsby-plugin-google-gtag/gatsby-browser.js'),
+      options: {"plugins":[],"trackingIds":["G-2RZBW6LYNM","UA-199919427-1","DC-FLOODIGHT_ID"],"gtagConfig":{"optimize_id":"OPT_CONTAINER_ID","anonymize_ip":true,"cookie_expires":0},"pluginConfig":{"head":false,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]}},
     }]
